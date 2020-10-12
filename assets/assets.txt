@@ -1,8 +1,15 @@
 d:assets:0:application/unknown
 i:badlogic.jpg:68465:image/jpeg
 d:icons:0:application/unknown
+i:icons/favicon.png:401:image/png
 i:icons/icon128.png:1671:image/png
 i:icons/icon32.png:401:image/png
+d:ui:0:application/unknown
+t:ui/default.fnt:11628:application/unknown
+i:ui/default.png:26179:image/png
+t:ui/uiskin.atlas:2894:application/unknown
+t:ui/uiskin.json:2841:application/unknown
+i:ui/uiskin.png:22779:image/png
 t:com/badlogic/gdx/graphics/g3d/particles/particles.fragment.glsl:820:application/unknown
 t:com/badlogic/gdx/graphics/g3d/particles/particles.vertex.glsl:2886:application/unknown
 t:com/badlogic/gdx/graphics/g3d/shaders/default.fragment.glsl:5874:application/unknown
