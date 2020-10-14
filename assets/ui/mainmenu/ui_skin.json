@@ -38,6 +38,13 @@ com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: {
 		downFontColor: RGBA_115_7_7_255
 		overFontColor: RGBA_159_17_17_255
 	}
+
+	default2: {
+		font: version-font
+		fontColor: RGBA_255_255_255_255
+		downFontColor: RGBA_115_7_7_255
+		overFontColor: RGBA_159_17_17_255
+	}
 }
 com.badlogic.gdx.scenes.scene2d.ui.TextTooltip$TextTooltipStyle: {
 	default: {

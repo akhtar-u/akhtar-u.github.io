@@ -15,7 +15,7 @@ i:ui/mainmenu/button-font.png:21066:image/png
 t:ui/mainmenu/title-font.fnt:11130:application/unknown
 i:ui/mainmenu/title-font.png:156010:image/png
 t:ui/mainmenu/ui_skin.atlas:581:application/unknown
-t:ui/mainmenu/ui_skin.json:841:application/unknown
+t:ui/mainmenu/ui_skin.json:983:application/unknown
 i:ui/mainmenu/ui_skin.png:2162994:image/png
 i:ui/mainmenu/ui_skin2.png:291108:image/png
 t:ui/mainmenu/version-font.fnt:11470:application/unknown
