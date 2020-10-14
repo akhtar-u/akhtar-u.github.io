@@ -12,6 +12,7 @@ d:ui/mainmenu:0:application/unknown
 i:ui/mainmenu/background.jpg:360321:image/jpeg
 t:ui/mainmenu/button-font.fnt:11469:application/unknown
 i:ui/mainmenu/button-font.png:21066:image/png
+i:ui/mainmenu/cursor.png:448:image/png
 t:ui/mainmenu/title-font.fnt:11130:application/unknown
 i:ui/mainmenu/title-font.png:156010:image/png
 t:ui/mainmenu/ui_skin.atlas:581:application/unknown
