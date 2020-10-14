@@ -1,0 +1,40 @@
+
+ui_skin.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+background
+  rotate: false
+  xy: 1, 499
+  size: 2000, 1500
+  orig: 2000, 1500
+  offset: 0, 0
+  index: -1
+
+ui_skin2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+button-font
+  rotate: false
+  xy: 1027, 769
+  size: 256, 512
+  orig: 256, 512
+  offset: 0, 0
+  index: -1
+title-font
+  rotate: false
+  xy: 1, 257
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+version-font
+  rotate: false
+  xy: 1, 127
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1

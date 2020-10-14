@@ -1,0 +1,47 @@
+{
+com.badlogic.gdx.graphics.g2d.BitmapFont: {
+	button-font: {
+		file: button-font.fnt
+	}
+	title-font: {
+		file: title-font.fnt
+	}
+	version-font: {
+		file: version-font.fnt
+	}
+}
+com.badlogic.gdx.graphics.Color: {
+	RGBA_115_7_7_255: {
+		hex: 610000ff
+	}
+	RGBA_159_17_17_255: {
+		hex: 9f1111ff
+	}
+	RGBA_255_255_255_255: {
+		hex: ffffffff
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: {
+	default: {
+		font: version-font
+		fontColor: RGBA_255_255_255_255
+	}
+	title: {
+		font: title-font
+		fontColor: RGBA_255_255_255_255
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: {
+	default: {
+		font: button-font
+		fontColor: RGBA_255_255_255_255
+		downFontColor: RGBA_115_7_7_255
+		overFontColor: RGBA_159_17_17_255
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.TextTooltip$TextTooltipStyle: {
+	default: {
+		label: default
+	}
+}
+}
