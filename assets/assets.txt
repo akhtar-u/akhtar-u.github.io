@@ -1,12 +1,16 @@
 d:assets:0:application/unknown
 d:audio:0:application/unknown
 d:audio/effects:0:application/unknown
+a:audio/effects/menu-select.mp3:5178:application/unknown
 d:audio/soundtracks:0:application/unknown
 a:audio/soundtracks/menu_theme.ogg:1972219:application/unknown
 d:icons:0:application/unknown
 i:icons/favicon.png:401:image/png
 i:icons/icon128.png:1671:image/png
 i:icons/icon32.png:401:image/png
+d:tileset:0:application/unknown
+t:tileset/tileset01.atlas:273:application/unknown
+i:tileset/tileset01.png:4219:image/png
 d:ui:0:application/unknown
 d:ui/mainmenu:0:application/unknown
 i:ui/mainmenu/background.jpg:360321:image/jpeg
