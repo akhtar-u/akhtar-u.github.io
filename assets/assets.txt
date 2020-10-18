@@ -9,8 +9,8 @@ i:icons/favicon.png:401:image/png
 i:icons/icon128.png:1671:image/png
 i:icons/icon32.png:401:image/png
 d:tileset:0:application/unknown
-t:tileset/tileset01.atlas:565:application/unknown
-i:tileset/tileset01.png:31752:image/png
+t:tileset/tileset.atlas:563:application/unknown
+i:tileset/tileset.png:31752:image/png
 d:ui:0:application/unknown
 d:ui/mainmenu:0:application/unknown
 i:ui/mainmenu/background.jpg:360321:image/jpeg
