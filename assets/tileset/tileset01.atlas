@@ -1,41 +1,48 @@
 
 tileset01.png
-size: 2048,512
+size: 256,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-grass1
-  rotate: false
-  xy: 776, 2
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
-grass2
-  rotate: false
-  xy: 1034, 2
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
-ground
+d1
   rotate: false
   xy: 2, 2
-  size: 256, 256
-  orig: 256, 256
+  size: 32, 32
+  orig: 32, 32
   offset: 0, 0
   index: -1
-vamp
+g1
   rotate: false
-  xy: 260, 2
-  size: 256, 256
-  orig: 256, 256
+  xy: 172, 2
+  size: 32, 32
+  orig: 32, 32
   offset: 0, 0
   index: -1
-wall1
+player
   rotate: false
-  xy: 518, 2
-  size: 256, 256
-  orig: 256, 256
+  xy: 138, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+s1
+  rotate: false
+  xy: 104, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+w1
+  rotate: false
+  xy: 70, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+water
+  rotate: false
+  xy: 36, 2
+  size: 32, 32
+  orig: 32, 32
   offset: 0, 0
   index: -1
