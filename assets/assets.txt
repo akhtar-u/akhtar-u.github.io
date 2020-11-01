@@ -8,8 +8,9 @@ d:icons:0:application/unknown
 i:icons/favicon.png:401:image/png
 i:icons/icon128.png:1671:image/png
 i:icons/icon32.png:401:image/png
+d:particles:0:application/unknown
 d:tileset:0:application/unknown
-t:tileset/tileset01.atlas:619:application/unknown
+t:tileset/tileset01.atlas:618:application/unknown
 i:tileset/tileset01.png:12385:image/png
 d:ui:0:application/unknown
 d:ui/mainmenu:0:application/unknown
