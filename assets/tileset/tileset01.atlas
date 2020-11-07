@@ -1,47 +1,132 @@
+
 tileset01.png
-size: 256,64
+size: 1024,32
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-d1
+chest_closed
   rotate: false
-  xy: 2, 2
+  xy: 352, 0
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
-g1
+chest_open
   rotate: false
-  xy: 172, 2
+  xy: 32, 0
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
+dirt
+  rotate: false
+  xy: 416, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+door
+  rotate: false
+  xy: 384, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+floor
+  rotate: false
+  xy: 0, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+floor
+  rotate: false
+  xy: 256, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+floor_1
+  rotate: false
+  xy: 544, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+grass
+  rotate: false
+  xy: 288, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+grass
+  rotate: false
+  xy: 320, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
 player
   rotate: false
-  xy: 138, 2
+  xy: 224, 0
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
-s1
+statue
   rotate: false
-  xy: 104, 2
+  xy: 192, 0
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
-  index: -1
-w1
+  index: 1
+tree
   rotate: false
-  xy: 70, 2
+  xy: 96, 0
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
-  index: -1
+  index: 1
+tree
+  rotate: false
+  xy: 128, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+tree
+  rotate: false
+  xy: 160, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+wall
+  rotate: false
+  xy: 448, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+wall_2
+  rotate: false
+  xy: 480, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+wall_1
+  rotate: false
+  xy: 512, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
 water
   rotate: false
-  xy: 36, 2
+  xy: 64, 0
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
-  index: -1
+  index: 1
