@@ -1,8 +1,11 @@
 d:assets:0:application/unknown
 d:audio:0:application/unknown
 d:audio/effects:0:application/unknown
+a:audio/effects/footstep_dirt.mp3:6432:application/unknown
+a:audio/effects/loot.mp3:331333:application/unknown
 a:audio/effects/menu-select.mp3:5178:application/unknown
 d:audio/soundtracks:0:application/unknown
+a:audio/soundtracks/cave_theme.mp3:1332690:application/unknown
 a:audio/soundtracks/menu_theme.ogg:1972219:application/unknown
 d:icons:0:application/unknown
 i:icons/favicon.png:401:image/png
